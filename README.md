@@ -21,6 +21,7 @@ Developed by: Deepika S
 RegisterNumber: 212222230028 
 */
 ```
+```
 import pandas as pd
 import numpy as np
 from sklearn.cluster import KMeans
@@ -69,6 +70,7 @@ plt.legend()
 plt.grid(True)
 plt.axis('equal')
 plt.show()
+```
 
 ## Output:
 ![K Means Clustering for Customer Segmentation](sam.png)
